@@ -1,0 +1,5 @@
+env/
+venv/
+mainApp/__pycache__/*
+social_auth_app/__pycache__/*
+mainApp/migrations/__pycache__/*

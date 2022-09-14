@@ -1,0 +1,13 @@
+The following accounts are used in this project
+
+
+Google Login/Signup Integration
+Google Developer Console: https://console.cloud.google.com/apis/dashboard
+Implementation Ref Video:  https://www.youtube.com/watch?v=kPTJ1uYLjgE
+Email: tanjim.techforing@gmail.com
+Project Name: Techforing-MS-local-server
+
+
+Facebook Login/Signup Integration (Not installed yet)
+Email: tanjim.techforing@gmail.com
+
