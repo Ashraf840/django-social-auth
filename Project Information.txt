@@ -11,3 +11,10 @@ Project Name: Techforing-MS-local-server
 Facebook Login/Signup Integration (Not installed yet)
 Email: tanjim.techforing@gmail.com
 
+
+
+
+Deployment to AWS Elastic Beanstalk
+YT Video: https://www.youtube.com/watch?v=51YwXvJ9LOE&t=833s
+
+
